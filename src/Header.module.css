@@ -1,4 +1,17 @@
 .header{
-  height: 60px;
-  background-color: rgb(123, 150, 231);
+  height: 70px;
+  background-color: rgb(200, 212, 250);
+  display: flex;
+  justify-content: center;
+
+
 }
+.container   {
+  width: 80%;
+  border:1px solid;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  
+}
+
